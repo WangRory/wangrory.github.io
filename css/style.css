@@ -186,7 +186,7 @@ i { font-size: 16px; }
 .banner.product_h2 { background: url(../images/product_2_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
 .banner.product_h2 .logo { background: url(../images/product_2_logo.png) no-repeat center center; }
 .banner.product_h3 { background: url(../images/product_3_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
-.banner.product_h3 .logo { background: url(../images/product_3_logo.png) no-repeat center center; }
+/* .banner.product_h3 .logo { background: url(../images/product_3_logo.png) no-repeat center center; } */
 .banner.product_h4 { background: url(../images/product_4_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
 .banner.product_h4 .logo { background: url(../images/product_4_logo.png) no-repeat center center; width: 270px; height: 80px; margin-top: -40px; margin-left: -135px; }
 .banner.product_h5 { background: url(../images/product_5_bg.jpg) no-repeat fixed 50% 0; background-size: cover; }
