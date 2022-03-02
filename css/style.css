@@ -421,7 +421,7 @@ i {
   width: 150px;
   height: 150px;
   display: block;
-  background-size: contain;
+  background-size: contain !important;
   background: url(../images/Mugshot2.png) no-repeat center center;
   border: 1px #ccc solid;
   overflow: hidden;
